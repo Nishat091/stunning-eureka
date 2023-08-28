@@ -1,3 +1,4 @@
 # student-demo
 
-this is a project that contain some information for student data
+this is my first repo
+auhtor-nishat jahan
